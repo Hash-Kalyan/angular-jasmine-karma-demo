@@ -109,5 +109,8 @@
       }
     }
   },
-  "defaultProject": "angular-jasmine-karma-demo"
+  "defaultProject": "angular-jasmine-karma-demo",
+  "cli": {
+    "analytics": false
+  }
 }
